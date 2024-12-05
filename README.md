@@ -1,7 +1,5 @@
 
-
-
-👨‍💻 **Vinayak Shinde**  
+### 👨‍💻 **Vinayak Shinde**  
 **Computer Engineer | AI & Robotics Enthusiast | Innovator**  
 
 Hi there! I'm Vinayak, a passionate Computer Engineer with a knack for **Artificial Intelligence**, **Robotics**, and **IoT**. I thrive on solving real-world challenges using cutting-edge technologies, focusing on crafting innovative solutions that blend creativity and technology.  
