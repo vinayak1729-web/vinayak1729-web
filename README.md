@@ -36,7 +36,7 @@ Hi there! I'm Vinayak, a passionate Computer Engineer with a knack for **Artific
 - **Geeks for Geeks Hackathon 2023:** Created an AI-powered health and fitness app.  
 
 ### 🌐 Let's Connect  
-[LinkedIn](#) | [GitHub](#)  
+[LinkedIn](https://www.linkedin.com/in/vinayak-shinde-1aa968223/) | [GitHub](#)  
 
 ---
 
