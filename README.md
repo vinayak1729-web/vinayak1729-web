@@ -76,7 +76,7 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 - **Robotics Mentor - Enovators-Hub** (Ongoing)
   - Training students in **IoT, Robotics, and AI integration**.
 
-## My Startup - Suryaprabha ☀️
+## Team Suryaprabha ☀️
 🚀 **Innovating for a Sustainable Future**
 - **Selected by Google | Avishkar Competition - University & Zonal Winner**.
 - Researching **AI-driven energy solutions & environmental impact**.
