@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>६ श्री गणेशाय नमः ६</h1>
+  <h1>|| श्री गणेशाय नमः ||</h1>
   <h1>
     ✨ Namaste, I'm <strong>Vinayak Shinde</strong>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
@@ -63,7 +63,7 @@ A passionate **Computer Engineer** skilled in **AI, Robotics, and IoT**, craftin
 ### **Robotics Mentor - Enovators-Hub** (Ongoing)
 - Training students in **IoT, Robotics, and AI integration**.
 
-## ☀️ My Startup - Suryaprabha
+## ☀️ My Hackathon Team - Suryaprabha
 🚀 **Innovating for a Sustainable Future**
 - **Selected by Google | Avishkar Competition - University & Zonal Winner**.
 - Researching **AI-driven energy solutions & environmental impact**.
