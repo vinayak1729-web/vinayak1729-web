@@ -1,104 +1,82 @@
 <div align="center">
-  <h1>॥ श्री गणेशाय नमः ॥</h1>
-<h1 align="center">
-  🕉️ नमस्ते , I'm Vinayak Shinde
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
-  <p><em>"विघ्नहर्ता" - Remover of Obstacles</em></p>
+  <h1>६ श्री गणेशाय नमः ६</h1>
+  <h1>
+    ✨ Namaste, I'm <strong>Vinayak Shinde</strong>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  </h1>
+  <p><em>"Vighnaharta - Remover of Obstacles"</em></p>
 </div>
 
-### About Me
-> 🚩 श्रीराम की शिक्षा 
+## 🚀 About Me
+Blending **Ancient Wisdom** with **Modern Innovation**
 
-A Computer Engineer specializing in AI, Robotics, and IoT, blending ancient wisdom with modern innovation to create impactful solutions. Like Lord Ram's unwavering dharma, I follow the path of righteousness in technology.
+A passionate **Computer Engineer** skilled in **AI, Robotics, and IoT**, crafting human-centric technology solutions. Inspired by **Lord Ram’s unwavering dharma**, I integrate **ethical engineering and AI-driven innovations** to create impactful systems.
 
-### Technical Skills
-> 🦋 मां सरस्वती की विद्या 
-
-<details>
-<summary>Core Competencies</summary>
-
-- **Programming Languages:** Python, C++, Java
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Keras
-- **Generative AI:** Llama, Gemini, Prompt Engineering
+## 🛠️ Technical Expertise
+### **Core Competencies**
+- **Programming:** Python, C++, Java
+- **AI & Machine Learning:** TensorFlow, PyTorch, OpenVINO, Llama, Gemini
+- **Generative AI & LLMs:** Prompt Engineering, Fine-tuning, AI Model Deployment
 - **Robotics & IoT:** Raspberry Pi, Arduino, Ultrasonic Sensors
-- **Web Development:** Flask, HTML, CSS
-- **Data Analysis:** SQL, Pandas, NumPy
-- **Cloud Platforms:** PythonAnywhere, Render
-</details>
+- **Web Development:** MERN Stack, Flask, REST APIs
+- **Cloud & DevOps:** PythonAnywhere, Render, OpenShift, AWS
+- **Data Science:** SQL, Pandas, NumPy, Matplotlib
+- **Cybersecurity & Ethics:** AI Bias Mitigation, Ethical AI Practices
 
-### Soft Skills
-> 🕉️ श्री कृष्ण के गुण 
+## 🏆 Achievements
+- **Guinness World Record Holder** - 24-hour Gen-AI Hackathon (NVIDIA & Meta)
+- **Google Gen-AI Exchange Hackathon 2024:** Top 3 in India out of 38,000+ participants
+- **NASA Space Apps Challenge Finalist:** National Level
+- **MIT AI Research Aspirant:** Building foundational AI innovations
 
-- Problem-solving with persistence
-- Innovative thinking
-- Team collaboration
-- Adaptability
-- Effective communication
+## 💡 Projects & Innovations
+### **🎯 Pitcher-Perfect | Google x MLB Hackathon 2024**
+- Advanced **MLB analytics platform** leveraging Data Science.
+- AI-powered **customized insights & email automation** for baseball fans.
+- Developed **comprehensive statistical databases** for predictive analysis.
 
-### Projects
-> 🏗️ ब्रह्मा की रचना 
+### **🧠 MAG - An AGI-like Voice Assistant**
+- 95% efficiency in **query comprehension & response generation**.
+- Adaptive **learning algorithms** for improved human-AI interactions.
+- Fully **integrated across web & mobile platforms**.
 
-#### 🎯 Pitcher-Perfect | Google x MLB Hackathon 2024
-- MLB-focused analytics platform leveraging data science
-- Custom email system for personalized baseball insights
-- Comprehensive database with statistical analysis
+### **💫 Chikitsa - Mental Health AI**
+- **Top 3 in India - Google Gen-AI Exchange Hackathon 2024**.
+- Advanced **emotion detection & real-time mood tracking**.
+- AI-powered **personalized therapy plans & multilingual chat support**.
 
+### **👁️ Dṛuṣṭi - Blind Navigation Device**
+- AI-powered **voice-command navigation aid**.
+- 95% accurate **obstacle detection using ultrasonic sensors**.
+- **Raspberry Pi-powered portable device** with real-time mapping.
 
-#### 🧠 MAG - An AGI-like Voice Assistant
-- Voice assistant with 95% efficiency in query comprehension
-- Dynamic learning capabilities across platforms
-- Seamless web and app integration
-- Real-time response system
+### **🌌 Antarikṣaṃ Draṣṭum - VR Space Education**
+- **Immersive VR space exploration experience**.
+- 85% improvement in **student engagement & learning outcomes**.
+- **NASA mission data visualization** for hands-on learning.
 
+## 🎓 Professional Experience
+### **AI Development Intern - Engagely.ai** (Jan 2025 - Present)
+- Implementing **LLM-powered chatbot solutions**.
+- Enhancing **AI automation for customer engagement**.
 
-#### 💫 Chikitsa - Mental Health AI
-- **Top 3 in India** - Google Gen-AI Exchange Hackathon 2024
-- Advanced emotion detection using OpenCV
-- Real-time mood tracking and analysis
-- Personalized therapy plans using Gemini AI
-- Multilingual chat support
-- Impact: 95% effectiveness in mental health support
+### **Robotics Mentor - Enovators-Hub** (Ongoing)
+- Training students in **IoT, Robotics, and AI integration**.
 
+## ☀️ My Startup - Suryaprabha
+🚀 **Innovating for a Sustainable Future**
+- **Selected by Google | Avishkar Competition - University & Zonal Winner**.
+- Researching **AI-driven energy solutions & environmental impact**.
 
-#### 👁️ Dṛuṣṭi - Blind Navigation Device
-- Navigation aid for visually impaired using ultrasonic sensors
-- Voice-command obstacle alerts with 95% accuracy
-- Raspberry Pi-powered portable device
-- Real-time environment mapping
-- Positive user feedback from visually impaired community
-
-
-#### 🌌 Antarikṣaṃ draṣṭum - VR Space Education
-- Immersive VR space mission simulations
-- 85% improvement in student comprehension
-- Interactive solar system exploration
-- Real NASA mission data visualization
-
-### Achievements
-> ⚡ हनुमान जी की वीरता (Achievements with Hanuman's Courage)
-
-- **Guinness World Record Holder:** 24-hour Gen-AI Hackathon (NVIDIA & Meta)
-- **Google Gen-AI Exchange:** Top 3 in India among 38,000 participants
-
-### Experience
-> 🎁 लक्ष्मी का वरदान (Professional Journey)
-
-- **AI Development Intern** - Engagely.ai
-- **Robotics Mentor** - Enovators-Hub
-
-### Connect With Me
-> 🔱 दुर्गा माँ की शक्ति (Power of Connection)
-
+## 📌 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/vinayak-shinde-1aa968223/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:shindevinayak233@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 ---
-
 <div align="center">
-   <em>"शिवाय नमः ॐ" </em>
+   <em>"शिवाय नमः ६"</em>
    <br>
-  <em>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन" - श्रीमद्भगवद्गीता</em>
+  <em>"Karmanye Vadhikaraste Ma Phaleshu Kadachana" - Bhagavad Gita</em>
 </div>
