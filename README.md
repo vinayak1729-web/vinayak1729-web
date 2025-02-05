@@ -1,7 +1,7 @@
 <div align="center">
   <h1>॥ श्री गणेशाय नमः ॥</h1>
 <h1 align="center">
-  🕉️ नमस्ते (Namaste), I'm Vinayak Shinde
+  🕉️ नमस्ते , I'm Vinayak Shinde
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
   <p><em>"विघ्नहर्ता" - Remover of Obstacles</em></p>
