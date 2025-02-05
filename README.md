@@ -82,5 +82,5 @@ A Computer Engineer weaving together the ancient wisdom of भारत (Bharat)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayak1729-web&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
