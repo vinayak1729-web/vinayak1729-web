@@ -91,7 +91,7 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 
 ---
 <div align="center">
-   <em>"शिवाय नमः ६"</em>
+   <em>|| ॐ शिवाय नमः ||</em>
    <br>
   <em>"Karmanye Vadhikaraste Ma Phaleshu Kadachana" - Bhagavad Gita</em>
 </div>
