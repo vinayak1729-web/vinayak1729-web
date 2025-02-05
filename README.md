@@ -1,16 +1,19 @@
 <div align="center">
   <h1>॥ श्री गणेशाय नमः ॥</h1>
-  <h2>Vinayak Shinde</h2>
+<h1 align="center">
+  🕉️ नमस्ते (Namaste), I'm Vinayak Shinde
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
   <p><em>"विघ्नहर्ता" - Remover of Obstacles</em></p>
 </div>
 
 ### About Me
-> 🚩 श्रीराम की शिक्षा (Lord Ram's Wisdom)
+> 🚩 श्रीराम की शिक्षा 
 
 A Computer Engineer specializing in AI, Robotics, and IoT, blending ancient wisdom with modern innovation to create impactful solutions. Like Lord Ram's unwavering dharma, I follow the path of righteousness in technology.
 
 ### Technical Skills
-> 🦋 मां सरस्वती की विद्या (Divine Skills Blessed by Goddess Saraswati)
+> 🦋 मां सरस्वती की विद्या 
 
 <details>
 <summary>Core Competencies</summary>
@@ -25,7 +28,7 @@ A Computer Engineer specializing in AI, Robotics, and IoT, blending ancient wisd
 </details>
 
 ### Soft Skills
-> 🕉️ श्री कृष्ण के गुण (Soft Skills Inspired by Lord Krishna)
+> 🕉️ श्री कृष्ण के गुण 
 
 - Problem-solving with persistence
 - Innovative thinking
@@ -34,15 +37,43 @@ A Computer Engineer specializing in AI, Robotics, and IoT, blending ancient wisd
 - Effective communication
 
 ### Projects
-> 🏗️ ब्रह्मा की रचना (Divine Creations)
+> 🏗️ ब्रह्मा की रचना 
 
-#### Pitcher-Perfect | Google x MLB Hackathon 2024
-- MLB analytics platform with custom email system
-- Comprehensive statistical analysis
-- Tech Stack: Python, ML, SQL
-- [View Project](link)
+#### 🎯 Pitcher-Perfect | Google x MLB Hackathon 2024
+- MLB-focused analytics platform leveraging data science
+- Custom email system for personalized baseball insights
+- Comprehensive database with statistical analysis
 
-[Continue with other projects as in previous version...]
+
+#### 🧠 MAG - An AGI-like Voice Assistant
+- Voice assistant with 95% efficiency in query comprehension
+- Dynamic learning capabilities across platforms
+- Seamless web and app integration
+- Real-time response system
+
+
+#### 💫 Chikitsa - Mental Health AI
+- **Top 3 in India** - Google Gen-AI Exchange Hackathon 2024
+- Advanced emotion detection using OpenCV
+- Real-time mood tracking and analysis
+- Personalized therapy plans using Gemini AI
+- Multilingual chat support
+- Impact: 95% effectiveness in mental health support
+
+
+#### 👁️ Dṛuṣṭi - Blind Navigation Device
+- Navigation aid for visually impaired using ultrasonic sensors
+- Voice-command obstacle alerts with 95% accuracy
+- Raspberry Pi-powered portable device
+- Real-time environment mapping
+- Positive user feedback from visually impaired community
+
+
+#### 🌌 Antarikṣaṃ draṣṭum - VR Space Education
+- Immersive VR space mission simulations
+- 85% improvement in student comprehension
+- Interactive solar system exploration
+- Real NASA mission data visualization
 
 ### Achievements
 > ⚡ हनुमान जी की वीरता (Achievements with Hanuman's Courage)
