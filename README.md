@@ -84,7 +84,6 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 ## Connect With Me
 🔱 **Durga Maa’s Power – Strength in Networking**
 
-## 📌 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/vinayak-shinde-1aa968223/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:shindevinayak233@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
