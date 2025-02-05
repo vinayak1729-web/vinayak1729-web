@@ -93,5 +93,15 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 <div align="center">
    <em>|| ॐ शिवाय नमः ||</em>
    <br>
-  <em>"Karmanye Vadhikaraste Ma Phaleshu Kadachana" - Bhagavad Gita</em>
+ <em>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</em>
+   <br>
+   <em>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</em>"
+   <br>
+   - श्रीमद्भगवद्गीता, अध्याय २, श्लोक ४७
+   <br><br>
+   <em>"You have the right to work only, but never to its fruits.</em>
+   <br>
+   <em>Let not the fruits of action be your motive, nor let your attachment be to inaction.</em>"
+   <br>
+ 
 </div>
