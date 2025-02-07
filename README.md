@@ -16,7 +16,7 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 🦋 **Empowered by Maa Saraswati’s Vidya**
 
 ### Core Competencies
--(learning new skills...✍️)
+- (learning new skills...✍️)
 - **Programming:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20"/> C++, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20"/> Java
 
 - **AI & Machine Learning:** <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="20"/> TensorFlow, <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="20"/> PyTorch
