@@ -100,7 +100,6 @@ a Completion by Mumbai University Which aims New inventions
    <em>|| ॐ शिवाय नमः ||</em>
 
    <br>
-<br>
 
  <em>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</em>
    <br>
