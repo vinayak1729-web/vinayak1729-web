@@ -104,7 +104,8 @@ a Completion by Mumbai University Which aims New inventions
  <em>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</em>
    <br>
    <em>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</em>"
-   <br>
+   <br><br>
+
    <em>"You have the right to work only, but never to its fruits.</em>
    <br>
    <em>Let not the fruits of action be your motive, nor let your attachment be to inaction.</em>"
