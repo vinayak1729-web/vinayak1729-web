@@ -66,7 +66,7 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 
 ## Achievements
 ⚡ **Hanuman Ji’s Strength – Overcoming Challenges**
-- **Finalist Avishka :** 
+- **Finalist Avishkar :** 
 a Completion by Mumbai University Which aims New inventions 
 - **Guinness World Record Holder:** 24-hour Gen-AI Hackathon (NVIDIA & Meta).
 - **Google Gen-AI Exchange Hackathon 2024:** Top 3 in India out of 38,000+ participants.
