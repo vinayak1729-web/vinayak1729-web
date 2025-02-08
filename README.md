@@ -66,10 +66,11 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 
 ## Achievements
 ⚡ **Hanuman Ji’s Strength – Overcoming Challenges**
+- **Finalist Avishka :** 
+a Completion by Mumbai University Which aims New inventions 
 - **Guinness World Record Holder:** 24-hour Gen-AI Hackathon (NVIDIA & Meta).
 - **Google Gen-AI Exchange Hackathon 2024:** Top 3 in India out of 38,000+ participants.
 - **NASA Space Apps Challenge Finalist:** National Level.
-- **MIT AI Research Aspirant:** Building foundational AI innovations.
 
 ## Professional Experience
 🎁 **Lakshmi’s Abundance – Career & Industry Exposure**
@@ -97,7 +98,10 @@ A **Computer Engineer** passionate about **AI, Robotics, and IoT**, crafting hum
 ---
 <div align="center">
    <em>|| ॐ शिवाय नमः ||</em>
+
    <br>
+<br>
+
  <em>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</em>
    <br>
    <em>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</em>"
