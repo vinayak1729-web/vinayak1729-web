@@ -1,7 +1,7 @@
 <div align="center">
   <h1>|| श्री गणेशाय नमः ||</h1>
   <h1>
-    🔍 Namaste, I'm <strong>Vinayak Shinde</strong>
+    🙏🏻 Namaste, I'm <strong>Vinayak Shinde</strong>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h1>
   <p><em>"Vighnaharta - Remover of Obstacles"</em></p>
