@@ -105,8 +105,6 @@ a Completion by Mumbai University Which aims New inventions
    <br>
    <em>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</em>"
    <br>
-   - श्रीमद्भगवद्गीता, अध्याय २, श्लोक ४७
-   <br><br>
    <em>"You have the right to work only, but never to its fruits.</em>
    <br>
    <em>Let not the fruits of action be your motive, nor let your attachment be to inaction.</em>"
