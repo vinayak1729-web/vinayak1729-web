@@ -74,7 +74,7 @@ a Completion by Mumbai University Which aims New inventions
 
 ## Professional Experience
 🎁 **Lakshmi’s Abundance – Career & Industry Exposure**
-- **AI Development Intern - Engagely.ai** (Jan 2025 - Present)
+- **Implementation Intern - Engagely.ai** (Jan 2025 - Present)
   - Implementing **LLM-powered chatbot solutions**.
   - Enhancing **AI automation for customer engagement**.
 - **Robotics Mentor - Enovators-Hub** (Ongoing)
