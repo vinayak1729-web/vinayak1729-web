@@ -6,7 +6,7 @@
   </h1>
   <p><em>"Vighnaharta - Remover of Obstacles"</em></p>
 </div>
-
+<a href="https://vinayak1729-web.github.io/personal-potfolio/"> Its Mee 👀
 ## About Me
 🚩 **Blending Ancient Wisdom with Modern Innovation**
 
