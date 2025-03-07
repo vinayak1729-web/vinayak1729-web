@@ -5,8 +5,10 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h1>
   <p><em>"Vighnaharta - Remover of Obstacles"</em></p>
+  <a href="https://vinayak1729-web.github.io/personal-potfolio/"> Its Mee 👀 </a>
+
 </div>
-<a href="https://vinayak1729-web.github.io/personal-potfolio/"> Its Mee 👀 </a>
+
 ## About Me
 🚩 **Blending Ancient Wisdom with Modern Innovation**
 
