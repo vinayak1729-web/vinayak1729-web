@@ -30,7 +30,7 @@ I build the infrastructure and research behind systematic options trading on Ind
 
 | Project | What it is |
 |---|---|
-| [**QuantResearch**](https://github.com/vinayak1729-web/QuantResearch) | Python backtesting library on PyPI (v2.5) — scripting DSL, 18+ indicators, risk metrics, multi-market data layer. Co-developed with [V. Mishra](https://github.com/vishalmishra-27). |
+| [**QuantResearch**](https://github.com/vinayak1729-web/QuantResearch) | Python backtesting library on PyPI (v2.5) — scripting DSL, 18+ indicators, risk metrics, multi-market data layer. Co-developed with [V. Mishra](https://github.com/vishalmishra369). |
 | [**NK Securities IV Prediction**](https://github.com/vinayak1729-web/Volatility-Curve-Prediction--NK-Securities-HFT-) | Huber-regression pipeline for implied-volatility surface prediction. **Global rank: 137.** |
 | **IMC Prosperity** | Algorithmic trading challenge — inventory-aware market making + options market making with delta hedging. **India rank: 172 · Global rank: 981.** |
 
